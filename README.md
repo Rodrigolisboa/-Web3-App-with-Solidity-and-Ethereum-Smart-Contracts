@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# Build a Web3 App with Solidity + Ethereum Smart Contracts
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Based on a BuildSpace project where I learned some Solidity, wrote and deployed a smart contract to the Ethereum blockchain (Rinkeby testnet), and built a Web3 client app to interact with my contract.
 
-Try running some of the following tasks:
+Web3 client app available at https://waveportal-starter-project.rodrigolisboa2.repl.co/
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Connect your MetaMask wallet and send me a wave with a message!
